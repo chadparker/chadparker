@@ -6,8 +6,8 @@
 - Previous Tiny House builder
 
 #### 🔭 Currently working on:
-- News Goose - Hacker News browse/search app
-- Playit - 
+- **News Goose**: Hacker News browse/search app
+- **Playit**: convert screenshots into playlists
 
 #### 🌱 Currently learning:
 - The Composable Architecture, by Point-Free
@@ -21,7 +21,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-**chadparker/chadparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _special_ ✨
 
-Here are some ideas to get you started:
 -->
