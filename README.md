@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-#### About me:
+#### 💻 About me:
 - iOS developer
 - Life-long nerd/maker/hacker
 - Previous Tiny House builder
@@ -14,7 +14,7 @@
 - JavaScript / TS
 
 #### ⚡ Fun fact:
-- I fixed a broken treadmill by programming an Arduino to take place of the factory controller
+- I once fixed a broken treadmill by programming an Arduino to take place of the factory controller
 
 <!--
 - 👯 I’m looking to collaborate on ...
