@@ -1,9 +1,9 @@
 ### Hi there! 👋
 
-#### I am:
+#### About me:
 - iOS developer
 - Life-long nerd/maker/hacker
-- Previously a Tiny House builder
+- Previous Tiny House builder
 
 #### 🔭 Currently working on:
 - News Goose - Hacker News browse/search app
