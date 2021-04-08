@@ -10,8 +10,8 @@
 - **Playit**: convert screenshots into playlists
 
 #### 🌱 Currently learning:
+- SQLite
 - The Composable Architecture, by Point-Free
-- JavaScript / TS
 
 #### ⚡ Fun fact:
 - I once fixed a broken treadmill by programming an Arduino to take place of the factory controller
